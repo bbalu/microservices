@@ -1,7 +1,7 @@
 # microservices
 microservices design styles
 
-![overview](jztvzkb2psyl.png)
+![overview](overview.png)
 
 ## API Gateway
 
