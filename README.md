@@ -25,7 +25,11 @@ Follow 12 rules when implementing a service using [12 factor methodology](http:/
 
 **CircuitBreaker pattern**
 
+[Martin Fowler](http://martinfowler.com/bliki/CircuitBreaker.html)
+
 CircuitBreaker pattern from Michael Nygard’s book ["Release It! Design and Deploy Production-Ready Software"](http://pragprog.com/book/mnee/release-it)
+
+Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsoft.com/en-us/library/dn589784.aspx)
 
 **Bulkhead pattern**
 
