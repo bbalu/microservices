@@ -32,7 +32,7 @@ CircuitBreaker pattern from Michael Nygard’s book ["Release It! Design and Dep
 
 **Bulkhead pattern**
 
-### timeout pattern
+**timeout pattern**
 
 ## Shared Services
 
