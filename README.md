@@ -22,4 +22,20 @@ Written in [Go](http://golang.org/) language.
 ### Further reading
 [Build microservices: using an API Gateway.](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/) [Chris Richardson](http://microservices.io/)
 
+## Shared Services
 
+### Service Discovery
+
+### routing
+
+### scheduling 
+
+### logging
+
+### health management
+
+### metrics
+
+### access control
+
+### security
