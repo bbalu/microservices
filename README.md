@@ -23,7 +23,16 @@ Written in [Go](http://golang.org/) language.
 [Build microservices: using an API Gateway.](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/) [Chris Richardson](http://microservices.io/)
 
 ## Service
-[12 factor](http://12factor.net/)
+
+### follow 12 rules when implementing a service using [12 factor methodology](http://12factor.net/)
+
+### CircuitBreaker pattern
+
+CircuitBreaker pattern from Michael Nygard’s book ["Release It! Design and Deploy Production-Ready Software"](http://pragprog.com/book/mnee/release-it)
+
+### Bulkhead pattern
+
+### timeout pattern
 
 ## Shared Services
 
