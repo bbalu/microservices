@@ -5,12 +5,9 @@ microservices design styles
 
 ## API Gateway
 
-
-
 ### [Kong](http://getkong.org/)
 
 Open source management layer for APIs built on top of NGINX
-
 
 ### [Tyk](https://github.com/lonelycode/tyk)
 
@@ -32,7 +29,7 @@ CircuitBreaker pattern from Michael Nygard’s book ["Release It! Design and Dep
 
 **Bulkhead pattern**
 
-**timeout pattern**
+**Timeout pattern**
 
 ## Shared Services
 
