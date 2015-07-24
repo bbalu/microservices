@@ -8,6 +8,7 @@ microservices design styles
 
 
 [Kong]
+![Kong logo](http://i.imgur.com/4jyQQAZ.png)
 
 [Tyk]
 
