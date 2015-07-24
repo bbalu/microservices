@@ -24,13 +24,13 @@ Written in [Go](http://golang.org/) language.
 
 ## Service
 
-### follow 12 rules when implementing a service using [12 factor methodology](http://12factor.net/)
+Follow 12 rules when implementing a service using [12 factor methodology](http://12factor.net/)
 
-### CircuitBreaker pattern
+**CircuitBreaker pattern**
 
 CircuitBreaker pattern from Michael Nygard’s book ["Release It! Design and Deploy Production-Ready Software"](http://pragprog.com/book/mnee/release-it)
 
-### Bulkhead pattern
+**Bulkhead pattern**
 
 ### timeout pattern
 
