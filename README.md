@@ -19,3 +19,7 @@ Written in [Go](http://golang.org/) language.
 
 ### [OpenLoop]
 
+### Further reading
+[Build microservices: using an API Gateway.](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/) [Chris Richardson](http://microservices.io/)
+
+
