@@ -41,9 +41,7 @@
 
 ### API Gateway
 
-[Kong](http://getkong.org/)
-
-Open source management layer for APIs built on top of NGINX
+[Kong](http://getkong.org/): Open source management layer for APIs built on top of NGINX. Protect your services with authentication and security layers using oauth, key, basic, CORS etc.
 
 [Tyk](https://github.com/lonelycode/tyk)
 
