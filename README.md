@@ -16,6 +16,23 @@
 
 * **Decentralized Data Management**
 
+* **Infrastructure Automation**
+
+* **Design for failure**
+
+* **Evolutionary Design**
+
+
+## pre requisties for taking up Microservices(based development)
+[based on this article by Martin Fowler](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
+
+* **Rapid provisioning**: you should be able to fire up a new server in a matter of hours.
+
+* **Basic Monitoring**: detecting technical issues (counting errors, service availability, etc) but it's also worth monitoring business issues (such as detecting a drop in orders). If a sudden problem appears then you need to ensure you can quickly rollback
+
+* **Rapid Application Deployment**: you need to be able to quickly deploy them, both to test environments and to production.
+
+* **DevOps Culture**: close collaboration between developers and operations- an important organizational shift is needed. 
 
 ## microservices design styles
 
