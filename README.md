@@ -74,6 +74,10 @@ Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsof
 
 * security
 
+### monitoring 
+
+
 ### Testing
 
 [Testing strategies for microservices development](http://martinfowler.com/articles/microservice-testing/) by [Toby Clemson](http://github.com/tobyclemson)
+
