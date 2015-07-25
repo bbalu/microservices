@@ -23,7 +23,7 @@
 * **Evolutionary Design**
 
 
-## pre requisties for taking up Microservices(based development)
+## pre requisites for taking up Microservices(based development)
 [based on this article by Martin Fowler](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
 
 * **Rapid provisioning**: you should be able to fire up a new server in a matter of hours.
