@@ -4,7 +4,7 @@
 
 **Componentization of Services**
 
-  component is a unit of software that is independently replaceable and upgradeable.
+*component is a unit of software that is independently replaceable and upgradeable.*
 
 **Organized around business capabilities**
 
