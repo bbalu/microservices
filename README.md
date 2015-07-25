@@ -2,27 +2,26 @@
 
 ## characteristics (based on [Martin Fowler](http://martinfowler.com/articles/microservices.html#CharacteristicsOfAMicroserviceArchitecture) )
 
-**Componentization of Services**
+* **Componentization of Services**
 
 *component is a unit of software that is independently replaceable and upgradeable.*
 
-**Organized around business capabilities**
+* **Organized around business capabilities**
 
-**Products not projects**
+* **Products not projects**
 
-**Smart Endpoints and dump pipes**
+* **Smart Endpoints and dump pipes**
 
-**Decentralized Governance**
+* **Decentralized Governance**
 
-**Decentralized Data Management**
+* **Decentralized Data Management**
 
 
-
-microservices design styles
+## microservices design styles
 
 ![overview](overview.png)
 
-## API Gateway
+### API Gateway
 
 [Kong](http://getkong.org/)
 
@@ -41,7 +40,7 @@ LoopBack is an open source Node.js framework built on top of Express optimized f
 
 [Build microservices: using an API Gateway.](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/) [Chris Richardson](http://microservices.io/)
 
-## Service
+### Service
 
 Follow 12 rules when implementing a service using [12 factor methodology](http://12factor.net/)
 
@@ -57,24 +56,24 @@ Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsof
 
 **Timeout pattern**
 
-## Shared Services
+### Shared Services
 
-### Service Discovery
+* Service Discovery
 
-### routing
+* routing
 
-### scheduling 
+* scheduling 
 
-### logging
+* logging
 
-### health management
+* health management
 
-### metrics
+* metrics
 
-### access control
+* access control
 
-### security
+* security
 
-## Testing
+### Testing
 
 [Testing strategies for microservices development](http://martinfowler.com/articles/microservice-testing/) by [Toby Clemson](http://github.com/tobyclemson)
