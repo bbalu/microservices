@@ -1,6 +1,6 @@
 # microservices
 
-###### characteristics (based on [Martin Fowler](http://martinfowler.com/articles/microservices.html#CharacteristicsOfAMicroserviceArchitecture) )
+1. ##### characteristics (based on [Martin Fowler](http://martinfowler.com/articles/microservices.html#CharacteristicsOfAMicroserviceArchitecture) )
 
 * Componentization of Services: component is a unit of software that is independently replaceable and upgradeable.
 
@@ -20,8 +20,7 @@
 
 * **Evolutionary Design**
 
-
-## pre requisites for taking up Microservices(based development)
+2. ##### pre requisites for taking up Microservices(based development)
 [based on this article by Martin Fowler](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
 
 * **Rapid provisioning**: you should be able to fire up a new server in a matter of hours.
