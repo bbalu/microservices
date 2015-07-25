@@ -35,6 +35,8 @@
 
 ![overview](overview.png)
 
+![modern application architecture](modern applicaiton architecture.png)
+
 ### API Gateway
 
 [Kong](http://getkong.org/)
@@ -100,7 +102,7 @@ Event based : messaging middleware like rabbitmq/kafka
 
 * security
 
-### monitoring 
+### Monitoring 
 
 
 ### Testing
@@ -108,4 +110,6 @@ Event based : messaging middleware like rabbitmq/kafka
 [Testing strategies for microservices development](http://martinfowler.com/articles/microservice-testing/) by [Toby Clemson](http://github.com/tobyclemson)
 
 
-Sam NewMan. [Answering questions (from Devxx) on Microservices](http://samnewman.io/blog/2015/06/22/answering-questions-from-devoxx-on-microservices/), Jun 22, 2015 
+### References
+
+Sam NewMan. [Answering questions (from Devxx) on Microservices](http://samnewman.io/blog/2015/06/22/answering-questions-from-devoxx-on-microservices/), Jun 22, 2015 	
