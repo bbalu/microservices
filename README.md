@@ -1,4 +1,23 @@
 # microservices
+
+## characteristics (based on [Martin Fowler](http://martinfowler.com/articles/microservices.html#CharacteristicsOfAMicroserviceArchitecture) )
+
+**Componentization of Services**
+
+  component is a unit of software that is independently replaceable and upgradeable.
+
+**Organized around business capabilities**
+
+**Products not projects**
+
+**Smart Endpoints and dump pipes**
+
+**Decentralized Governance**
+
+**Decentralized Data Management**
+
+
+
 microservices design styles
 
 ![overview](overview.png)
