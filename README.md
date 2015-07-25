@@ -70,6 +70,14 @@ Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsof
 
 **Timeout pattern**
 
+### Communication between Services
+
+Request/response - sync : binary RPC like [Thrift](https://thrift.apache.org/) or http or Google's [Protocolbuffers](https://github.com/google/protobuf)
+
+Request/response - async: message passing
+
+Event based : messaging middleware like rabbitmq/kafka
+
 ### Shared Services
 
 * Service Discovery
@@ -84,7 +92,11 @@ Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsof
 
 * metrics
 
-* access control
+* access control and authorization
+
+--* user auth
+
+--* service-to-service auth
 
 * security
 
@@ -95,3 +107,5 @@ Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsof
 
 [Testing strategies for microservices development](http://martinfowler.com/articles/microservice-testing/) by [Toby Clemson](http://github.com/tobyclemson)
 
+
+Sam NewMan. [Answering questions (from Devxx) on Microservices](http://samnewman.io/blog/2015/06/22/answering-questions-from-devoxx-on-microservices/), Jun 22, 2015 
