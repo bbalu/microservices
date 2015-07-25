@@ -33,6 +33,9 @@
 
 ## microservices design styles
 
+modern application platform
+
+
 ![overview](overview.png)
 
 ![modern application architecture](modern applicaiton architecture.png)
@@ -96,9 +99,9 @@ Event based : messaging middleware like rabbitmq/kafka
 
 * access control and authorization
 
---* user auth
+..* user auth
 
---* service-to-service auth
+..* service-to-service auth
 
 * security
 
@@ -113,3 +116,4 @@ Event based : messaging middleware like rabbitmq/kafka
 ### References
 
 Sam NewMan. [Answering questions (from Devxx) on Microservices](http://samnewman.io/blog/2015/06/22/answering-questions-from-devoxx-on-microservices/), Jun 22, 2015 	
+
