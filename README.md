@@ -98,9 +98,18 @@ Event based : messaging middleware like rabbitmq/kafka
 
 * access control and authorization
 
-..* user auth
-
-..* service-to-service auth
+    * user auth
+        * oauth
+        * JSON Web Tokens(JWT)
+        
+          [Build Secure User Interfaces JSON Web Tokens (JWT)](https://stormpath.com/blog/build-secure-user-interfaces-using-jwts/)
+          
+          [Token Based Authentication for Single Page Apps (SPAs)](https://stormpath.com/blog/token-auth-spa/)
+          
+          [use JWT the right way](https://stormpath.com/blog/jwt-the-right-way/)
+          
+        
+    * service-to-service auth
 
 * security
 
