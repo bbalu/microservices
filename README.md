@@ -116,3 +116,4 @@ Event based : messaging middleware like rabbitmq/kafka
 
 Sam NewMan. [Answering questions (from Devxx) on Microservices](http://samnewman.io/blog/2015/06/22/answering-questions-from-devoxx-on-microservices/), Jun 22, 2015 	
 
+[Sam Ramji, cloud foundry foundation]. [The Makings of a Modern Application Architecture](https://www.youtube.com/watch?v=fiENlfVU7Ys)
