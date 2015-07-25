@@ -2,13 +2,11 @@
 
 ###### characteristics (based on [Martin Fowler](http://martinfowler.com/articles/microservices.html#CharacteristicsOfAMicroserviceArchitecture) )
 
-* **Componentization of Services**
+* Componentization of Services: component is a unit of software that is independently replaceable and upgradeable.
 
-*component is a unit of software that is independently replaceable and upgradeable.*
+* Organized around business capabilities
 
-* **Organized around business capabilities**
-
-* **Products not projects**
+* Products not projects
 
 * **Smart Endpoints and dump pipes**
 
