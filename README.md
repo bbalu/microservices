@@ -33,6 +33,9 @@
 
 ## microservices design styles
 
+modern application platform
+
+
 ![overview](overview.png)
 
 ### API Gateway
@@ -94,9 +97,9 @@ Event based : messaging middleware like rabbitmq/kafka
 
 * access control and authorization
 
---* user auth
+..* user auth
 
---* service-to-service auth
+..* service-to-service auth
 
 * security
 
