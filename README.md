@@ -38,7 +38,7 @@ modern application platform
 
 ![overview](overview.png)
 
-![modern application architecture](modern applicaiton architecture.png)
+![modern application architecture](modern application architecture.png)
 
 ### API Gateway
 
