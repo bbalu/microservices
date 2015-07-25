@@ -33,10 +33,9 @@
 
 ## microservices design styles
 
-modern application platform
-
-
 ![overview](overview.png)
+
+**modern application platform**
 
 ![modern application architecture](modern application architecture.png)
 
