@@ -72,6 +72,31 @@ Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsof
 
 **Timeout pattern**
 
+** epose minimum APIs' **
+/info
+{
+   Version: "<major>.<minor>.<github commit #>.<git sha>.data.time,
+   StartTimeEpochSecs: 1430515329,
+   CurrentTimeEpochSecs: 143117131,
+   Uptime: "167h10m2s"
+   
+   //service name
+   //instance id
+}
+
+/connections
+{
+   currentUsercount: 1,
+   currentlyAuthenticatedUsers: [{
+      account: '',
+      sessionKey:
+      sessionDuration:
+      publickKeyName:
+   ]}
+}
+
+/health
+
 ### Communication between Services
 
 Request/response - sync : binary RPC like [Thrift](https://thrift.apache.org/) or http or Google's [Protocolbuffers](https://github.com/google/protobuf)
