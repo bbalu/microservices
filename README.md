@@ -56,6 +56,14 @@ LoopBack is an open source Node.js framework built on top of Express optimized f
 
 [Build microservices: using an API Gateway.](https://www.nginx.com/blog/building-microservices-using-an-api-gateway/) [Chris Richardson](http://microservices.io/)
 
+### CQRS and Event Sourcing
+
+[Greg Young online tutorial ](http://www.viddler.com/v/dc528842)
+
+This is a recording of an online class covering Domain Driven Design, CQRS, Event Sourcing, and the overall architecture around it.
+
+[chris richardson: Building and Deploying Microservices with Event Sourcing, CQRS and Docker, QCON Jun13, 2015](http://www.infoq.com/presentations/microservices-docker-cqrs)
+
 ### Service
 
 Follow 12 rules when implementing a service using [12 factor methodology](http://12factor.net/)
@@ -72,19 +80,22 @@ Microsoft Cloud Design patterns: [Circuit Breaker pattern](https://msdn.microsof
 
 **Timeout pattern**
 
-** epose minimum APIs' **
+
+**Service API (minimum)**
+
 /info
+
 {
    Version: "<major>.<minor>.<github commit #>.<git sha>.data.time,
    StartTimeEpochSecs: 1430515329,
    CurrentTimeEpochSecs: 143117131,
    Uptime: "167h10m2s"
-   
    //service name
    //instance id
 }
 
 /connections
+
 {
    currentUsercount: 1,
    currentlyAuthenticatedUsers: [{
