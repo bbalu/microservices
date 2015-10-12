@@ -164,8 +164,11 @@ Event based : messaging middleware like rabbitmq/kafka
 * metrics
 * monitoring
 * Backing services(12factor)
+* Metering and Billing
 
+### Dependencies
 
+[michael bryzek interview by infoq](http://www.infoq.com/interviews/michael-bryzek-handling-microservices)
 
 ### References
 
