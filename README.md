@@ -154,6 +154,15 @@ Event based : messaging middleware like rabbitmq/kafka
 
 [Testing strategies for microservices development](http://martinfowler.com/articles/microservice-testing/) by [Toby Clemson](http://github.com/tobyclemson)
 
+### sERVICE TYPES
+
+* caching service
+* API management
+* metrics
+* monitoring
+* Backing services(12factor)
+
+
 
 ### References
 
