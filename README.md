@@ -154,10 +154,13 @@ Event based : messaging middleware like rabbitmq/kafka
 
 [Testing strategies for microservices development](http://martinfowler.com/articles/microservice-testing/) by [Toby Clemson](http://github.com/tobyclemson)
 
-### sERVICE TYPES
+### SERVICE TYPES
 
 * caching service
-* API management
+* API management and gateway with correlation ID
+
+ An easy way to correlate tasks at different nodes that belong to the same domain-level operation is associating a    correlation ID to the higher-level operation and let this ID flow through the system so you can later reconstruct the whole history of that operation as it went across the system.
+
 * metrics
 * monitoring
 * Backing services(12factor)
