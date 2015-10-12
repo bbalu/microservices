@@ -170,6 +170,9 @@ Event based : messaging middleware like rabbitmq/kafka
 
 [michael bryzek interview by infoq](http://www.infoq.com/interviews/michael-bryzek-handling-microservices)
 
+ runtime dependencies
+ compile dependencies
+ 
 ### References
 
 Sam NewMan. [Answering questions (from Devxx) on Microservices](http://samnewman.io/blog/2015/06/22/answering-questions-from-devoxx-on-microservices/), Jun 22, 2015 	
