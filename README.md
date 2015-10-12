@@ -149,6 +149,13 @@ Event based : messaging middleware like rabbitmq/kafka
 
 ### Monitoring 
 
+### deployment
+
+[Ion Roller from Gilt]
+
+[Bosch from Cloud foundry]
+
+[Empire from Remind]
 
 ### Testing
 
